@@ -1,9 +1,9 @@
 "use client";
 
-export default function Home() {
+export default function Orders() {
   return (
     <div>
-      Home Page
+      Orders Page
     </div>
   );
 }

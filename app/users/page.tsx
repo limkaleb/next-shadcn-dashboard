@@ -1,9 +1,9 @@
 "use client";
 
-export default function Home() {
+export default function Users() {
   return (
     <div>
-      Home Page
+      User Page
     </div>
   );
 }
